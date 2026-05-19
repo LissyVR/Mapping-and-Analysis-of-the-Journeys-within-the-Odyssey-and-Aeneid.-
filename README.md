@@ -1,2 +1,8 @@
-# Mapping-and-Analysis-of-the-Journeys-within-the-Odyssey-and-Aeneid.-
-A repository containing a Digital Humanities Project for Durham University, Classical Civilisation Undergraduate Degree, Year 2; Mapping the journeys of Odysseus and Aeneid as they appear in their source material, with infleunce from relevant research. 
+# Analysing the Routes of Odysseus and Aeneas across the Mediterranean to Clarify the Extent of the Odyssey’s Influence on Virgil’s Epic
+This repository, owned and maintained by Alicia Robins, contains the full data and outcomes for a Project for Durham University within the Digital Humanities Module in a Classical Civilisation Undergraduate Degree, Year 2. The title of said project is 'Analysing the Routes of Odysseus and Aeneas across the Mediterranean to Clarify the Extent of the Odyssey’s Influence on Virgil’s Epic'. Mapping the journeys of Odysseus and Aeneas as they appear in their source material, with influence from relevant research. 
+The Repository includes all Text files, CSV files, QGIS Projects, Maps, and Annotated Maps created and used as data for the project. A research report is also included, discussing the findings of the analysis of the aforementioned data. 
+The project analyses the connection between the journeys of Odysseus and Aeneas, noting their similarities and differences, and perhaps why they exist. This analysis will indicate the extent of the Odyssey's influence on the Aeneid. The map outcomes are important to the research of Classics, as pre-existing maps are contested; placing mythical locations on a real-world map makes Classics and epics more accessible to a modern perspective; and the connection between the Odyssey and the Aeneid reflects Rome's fascination with Greek culture on a wider level.
+
+The whole repository is written in English. 
+Recogito, QGIS Mapping, and iArtBook were the platforms used. 
+This repository is covered by a CC BY-NC 4.0 License, an Attribution-NonCommercial 4.0 International Creative Commons License. 

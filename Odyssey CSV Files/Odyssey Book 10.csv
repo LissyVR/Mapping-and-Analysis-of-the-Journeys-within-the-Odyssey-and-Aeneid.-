@@ -1,0 +1,4 @@
+"UUID","FILE","QUOTE_TRANSCRIPTION","ANCHOR","TYPE","URI","VOCAB_LABEL","VOCAB_TEMPORAL_BOUNDS","LAT","LNG","PLACE_TYPE","VERIFICATION_STATUS","TAGS","COMMENTS","GROUP_ID","GROUP_ORDER"
+"f66c1fba-fcd0-4a1c-bf6f-a64bae706f98","HOMER, ODYSSEY, BOOK 10.txt","Aeolian isle","char-offset:42","PLACE","http://pleiades.stoa.org/places/462284","Lipara (island)|Lipara, Lipari","-0550/0640","38.50554","14.93394","island","VERIFIED","","","",""
+"be0e7199-b635-4e1a-bdfb-3e7b39d1f169","HOMER, ODYSSEY, BOOK 10.txt","Telepylus","char-offset:4784","PLACE","http://pleiades.stoa.org/places/432839","Formiae|Formiae, Formia","-0330/0640","41.256351","13.605914","amphitheatre,theatre,settlement,tomb","VERIFIED","","","",""
+"438f40cc-c59a-452b-afb6-f1ca48f45812","HOMER, ODYSSEY, BOOK 10.txt","Aeaea","char-offset:7976","PLACE","http://pleiades.stoa.org/places/432782","Circeii 1|Circeii, San Felice Circeo","-0550/-0030","41.2302","13.08319","city-wall,settlement","VERIFIED","","","",""
